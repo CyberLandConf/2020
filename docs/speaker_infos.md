@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "CyberLand 2020 (Speaker)"
-permalink: /speaker
+permalink: /speaker/
 ---
 
 Information for our speakers
