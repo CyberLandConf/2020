@@ -3,7 +3,7 @@ Informationen für Teilnehmende der CyberLand 2020
 
 ## Wichtige Informationsquellen
 
-Konferenzseite: https://www.bigmarker.com/series/cyberland/series_summit
+Konferenzseite: https://www.bigmarker.com/series/cyberland/series_summit  
 Infoseite: https://cyberjug.de/cyberland2020/  
 Twitter: https://twitter.com/cyberlandconf  
 Slack: https://slackin-jvm-german.herokuapp.com, Channel #cyberland  
