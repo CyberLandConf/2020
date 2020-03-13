@@ -1,4 +1,9 @@
-# CyberLand 2020
+---
+layout: page
+title: "CyberLand 2020"
+permalink: /
+---
+
 Informationen für Teilnehmende der CyberLand 2020
 
 ## Wichtige Informationsquellen

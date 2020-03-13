@@ -1,10 +1,15 @@
-# CyberLand 2020
+---
+layout: page
+title: "CyberLand 2020 (Speaker)"
+permalink: /speaker
+---
+
 Information for our speakers
 
 ## Important links
-Konferenzseite: https://www.bigmarker.com/series/cyberland/series_summit
-Infoseite: https://cyberjug.de/cyberland2020/
-Twitter: https://twitter.com/cyberlandconf
+Konferenzseite: https://www.bigmarker.com/series/cyberland/series_summit  
+Infoseite: https://cyberjug.de/cyberland2020/  
+Twitter: https://twitter.com/cyberlandconf  
 Slack: https://slackin-jvm-german.herokuapp.com, Channel #cyberland  
 
 ## Q&A
